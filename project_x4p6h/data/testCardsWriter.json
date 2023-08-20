@@ -1,0 +1,12 @@
+[
+    {
+        "damage": 250,
+        "name": "Charizard",
+        "hp": 150
+    },
+    {
+        "damage": 50,
+        "name": "Pikachu",
+        "hp": 100
+    }
+]

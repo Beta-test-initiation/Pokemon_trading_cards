@@ -1,0 +1,17 @@
+[
+  {
+    "damage": 50,
+    "name": "Charizard",
+    "hp": 100
+  },
+  {
+    "damage": 40,
+    "name": "Blastoise",
+    "hp": 120
+  },
+  {
+    "damage": 30,
+    "name": "Venusaur",
+    "hp": 90
+  }
+]

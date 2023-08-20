@@ -1,0 +1,77 @@
+[
+    {
+        "damage": 60,
+        "name": "Charmander",
+        "hp": 90
+    },
+    {
+        "damage": 12,
+        "name": "Squirtle",
+        "hp": 50
+    },
+    {
+        "damage": 20,
+        "name": "Bulbasaur",
+        "hp": 50
+    },
+    {
+        "damage": 40,
+        "name": "Pikachu",
+        "hp": 50
+    },
+    {
+        "damage": 40,
+        "name": "Onix",
+        "hp": 30
+    },
+    {
+        "damage": 10,
+        "name": "Jigglypuff",
+        "hp": 20
+    },
+    {
+        "damage": 20,
+        "name": "Geodude",
+        "hp": 50
+    },
+    {
+        "damage": 20,
+        "name": "Rattata",
+        "hp": 50
+    },
+    {
+        "damage": 80,
+        "name": "Mew",
+        "hp": 120
+    },
+    {
+        "damage": 20,
+        "name": "Butterfree",
+        "hp": 20
+    },
+    {
+        "damage": 10,
+        "name": "xyz",
+        "hp": 20
+    },
+    {
+        "damage": 2,
+        "name": "abc",
+        "hp": 10000
+    },
+    {
+        "damage": 22,
+        "name": "abcde",
+        "hp": 1000
+    },
+    {
+        "damage": 10,
+        "name": "snorlax",
+        "hp": 20
+    },
+    {
+        "damage": 10,
+        "name": "abc",
+        "hp": 10
+    }
+]
